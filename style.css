@@ -657,7 +657,7 @@ h4 {
     background-color: #7A4700;
 }
 .tc-white {
-    color: #7A4700 !important;
+    color: #fff !important;
 }
 .btn-atomic-tangerine {
     background: #7A4700;
@@ -899,4 +899,8 @@ h4 {
 }
 .bg-cover {
     background-size: cover !important;
+}
+
+:focus{
+    border: red 5px solid;
 }
